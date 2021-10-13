@@ -1,0 +1,21 @@
+Hogwarts App
+
+Modulos
+
+    material
+
+    shared
+        sidebar
+
+    Hogwarts
+        pages
+            characters
+            students
+            teachers
+            student-aplication
+        components
+            table
+        services
+            Hogwarts
+        pipes
+            images
